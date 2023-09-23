@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/package_lock.json
+/clients/node_modules
+/clients/package_lock.json
+/clients/.env
